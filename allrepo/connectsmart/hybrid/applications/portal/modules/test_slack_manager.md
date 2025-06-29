@@ -83,7 +83,7 @@ class TestSlackManager(unittest.TestCase):
         self.config = {
             'slack': {
                 'channel_id': 'CH12345',                                    # Test channel ID
-                'bot_token': 'xoxb-1234567890-abcdefghijklmnopqrstuvwxyz',  # Test bot token
+                'bot_token': 'xoxb-XXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXX',  # Test bot token
             }
         }
         
